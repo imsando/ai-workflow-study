@@ -3,8 +3,8 @@
 ### 🍀 스터디 구성원
 |                                                                 Backend                                                                  |                                         Backend                                         |
 |:----------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------:|
-| <img src="" width=200px alt="ㅇㅇㅇ"/> | <img src="https://avatars.githubusercontent.com/u/72328552?v=4" width=200px alt="이승현"/> |
-|                                                 [ㅇㅇㅇ]()                                              |                        [이승현](https://github.com/LeeSeunghyeon-1)                        |
+| <img src="https://avatars.githubusercontent.com/u/27407374?v=4" width=200px alt="김윤혁"/> | <img src="https://avatars.githubusercontent.com/u/72328552?v=4" width=200px alt="이승현"/> |
+|                                                 [김윤혁](https://github.com/kyhyeok)                                              |                        [이승현](https://github.com/LeeSeunghyeon-1)                        |
 
 
 ### 🍀 스터디 목적
@@ -17,8 +17,8 @@
 - 주 2회 진행 (월 / 목)
 - 오전 8시 ~ 9시
 #### ⚪️ 스터디 범위
-- Session 4부터 진행
-- Session 3까지는 개인 학습으로 진행
+- Session 9부터 진행
+- Session 8까지는 개인 학습으로 진행
 #### ⚪️ 스터디 방식
 - 각자 해당 섹션 내용을 미리 학습
 - 핵심 내용 위주로 간단하게 공유 (5분 이내)
@@ -26,13 +26,14 @@
 - 필요 시 간단한 실습 및 화면 공유
 #### ⚪️ 디렉토리 구조
 ```
-|-- Session04
+|-- Session09
   |-- Study
     (작성자).md
   |-- Mission
     (작성자).md
-|-- Session05
-|-- Session06
+|-- Session10
+|-- Session11
+...
 ```
 
 #### ⚪️ 규칙
@@ -41,5 +42,5 @@
 3. 전날 취소 및 당일 불참은 다음 참여에 영향을 줄 수 있음
 #### ⚪️ 커밋 규칙
 ```
-[SessionXX] 제목(작성자)
+[SessionXX]제목(작성자)
 ```
